@@ -18,17 +18,17 @@
 
 - CNN模型：
 
-![image-20250430214340795]https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214340795.png
+![image-20250430214340795](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214340795.png)
 
-- CRNN模型：![image-20250430214440844]
-- CRNN-Transformer模型：![image-20250430214532509]
+- CRNN模型：![image-20250430214440844](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214440844.png)
+- CRNN-Transformer模型：![image-20250430214532509](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214532509.png)
 
 ## 四、四分类结果分析：
 
 - CNN模型：
 
-- ![image-20250430214747842](C:\Users\86183\AppData\Roaming\Typora\typora-user-images\image-20250430214747842.png)
+- ![image-20250430214747842](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214747842.png)
 
 - MS-SE-Net模型:
 
-  ![image-20250430214812329](C:\Users\86183\AppData\Roaming\Typora\typora-user-images\image-20250430214812329.png)
+  ![image-20250430214812329](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214812329.png)
