@@ -18,10 +18,10 @@
 
 - CNN模型：
 
-![image-20250430214340795](C:\Users\86183\AppData\Roaming\Typora\typora-user-images\image-20250430214340795.png)
+![image-20250430214340795]
 
-- CRNN模型：![image-20250430214440844](C:\Users\86183\AppData\Roaming\Typora\typora-user-images\image-20250430214440844.png)
-- CRNN-Transformer模型：![image-20250430214532509](C:\Users\86183\AppData\Roaming\Typora\typora-user-images\image-20250430214532509.png)
+- CRNN模型：![image-20250430214440844]
+- CRNN-Transformer模型：![image-20250430214532509]
 
 ## 四、四分类结果分析：
 
