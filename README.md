@@ -1,4 +1,4 @@
-	该项目主要有两个任务：第一个为判断是否患有心脏病的二分类任务，第二个为判断具体患有哪种心脏病的四分类任务。具体而言各板块的内容为：
+该项目主要有两个任务：第一个为判断是否患有心脏病的二分类任务，第二个为判断具体患有哪种心脏病的四分类任务。具体而言各板块的内容为：
 
 ## 一、Code
 
@@ -17,11 +17,11 @@
 ## 三、二分类结果分析：
 
 - CNN模型：
-
-![image-20250430214340795](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214340795.png)
-
-- CRNN模型：![image-20250430214440844](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214440844.png)
-- CRNN-Transformer模型：![image-20250430214532509](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214532509.png)
+- ![image-20250430214340795](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214340795.png)
+- CRNN模型：
+- ![image-20250430214440844](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214440844.png)
+- CRNN-Transformer模型：
+- ![image-20250430214532509](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214532509.png)
 
 ## 四、四分类结果分析：
 
@@ -32,3 +32,5 @@
 - MS-SE-Net模型:
 
   ![image-20250430214812329](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214812329.png)
+
+这是本人大三时的比赛项目，仍存在不少有待完善的地方，但碍于精力有限后续不会进行维护了，代码仅供参考！希望能够有所帮助...
