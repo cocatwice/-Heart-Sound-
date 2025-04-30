@@ -18,7 +18,7 @@
 
 - CNN模型：
 
-![image-20250430214340795]
+![image-20250430214340795]https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214340795.png
 
 - CRNN模型：![image-20250430214440844]
 - CRNN-Transformer模型：![image-20250430214532509]
