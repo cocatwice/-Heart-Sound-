@@ -33,4 +33,6 @@
 
   ![image-20250430214812329](https://github.com/cocatwice/-Heart-Sound-/blob/main/images/image-20250430214812329.png)
 
+较为详细的介绍在：https://zhuanlan.zhihu.com/p/1901291780458152219
+
 这是本人大三时的比赛项目，仍存在不少有待完善的地方，但碍于精力有限后续不会进行维护了，代码仅供参考！希望能够有所帮助...
